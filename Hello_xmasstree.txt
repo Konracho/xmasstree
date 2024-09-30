@@ -1,2 +1,0 @@
-print("Hello, xmasstree!")
-print("momo")
